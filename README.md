@@ -7,7 +7,17 @@ The introduction of the GraphRAG with History
 # Project Description
 This open-source software is designed to assist institutions and researchers in the field of history by embedding historical documents or case reports into a graph database (such as Neo4j), enabling advanced search and retrieval functionality through GraphRAG (Graph-based Retrieval-Augmented Generation). The integration of AI capabilities enhances the system's scalability and value, making historical data more efficient to search and analyze. This system supports historical research and education by providing rich historical data, helping scholars to delve deeper into historical events, figures, and connections, thus facilitating more precise historical research and teaching.
 # Project Directory Structure
-
+GraphRagwith history/
+│
+│
+├── templates/
+│   ├── person.html       # person nodes
+│   ├── file.html        # file nodes
+│   ├── personandevent.html       # person relate event nodes
+│   └── personaboutjiangchong.html        # jiangchong  nodes
+├── neo4j-for-nodes.py               # neo4j code
+│
+└── README.md            # Project description file
 # Installation Guide
 
 # Usage Instructions
