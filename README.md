@@ -9,7 +9,8 @@ This open-source software is designed to assist institutions and researchers in 
 # Project Directory Structure
 
 
-'''
+```
+
 
 GraphRagwith history/
 │
@@ -22,8 +23,8 @@ GraphRagwith history/
 ├── neo4j-for-nodes.py               # neo4j code
 │
 └── README.md            # Project description file
+```
 
-'''
 # Installation Guide
 
 # Usage Instructions
