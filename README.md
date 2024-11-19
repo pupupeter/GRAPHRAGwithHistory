@@ -104,7 +104,7 @@ I had already put the theories on github, you could try choose our theories or j
   **you could just download my code to modify**
 
 ```
-https://github.com/pupupeter/GRAPHRAGwithHistory/blob/main/%E6%9C%89%E6%88%90%E5%8A%9Fneo4j%E7%9A%84%E6%9D%B1%E8%A5%BF.py
+https://github.com/pupupeter/GRAPHRAGwithHistory/blob/main/neo4jwithhistory.py
 ```
 
 
