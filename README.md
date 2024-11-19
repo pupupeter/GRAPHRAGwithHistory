@@ -34,7 +34,7 @@ Please use VScode jupyter notebook google colab and other interactive computing 
 **1.** Install Required Packages
 ```
 pip install neo4j
-
+pip install pyvis
 ```
 
 
