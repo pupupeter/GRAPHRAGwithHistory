@@ -66,34 +66,45 @@ I had already put the theories on github, you could try choose our theories or j
 
 
 
-**1.** connect neo4j
+**1. connect neo4j**
+
+
 
 ![image](https://github.com/user-attachments/assets/116d427c-05f0-4756-aa55-f3112cd2809c)
 
 
-**2.** put the files on 
+**2. put the files on**
+
+
 
 ![image](https://github.com/user-attachments/assets/83ce949b-abc9-4618-8468-5458da1562f2)
 
 
 
 
-**3.** click Generate Graph
+**3. click Generate Graph**
+
+
 
 ![image](https://github.com/user-attachments/assets/7e380299-7267-4dbf-9ca9-8e8af3020366)
 
 
 
-**4.** Use RAG-bot to ask question( optionally )
+**4. Use RAG-bot to ask question( optionally )**
+
+
 
 ![image](https://github.com/user-attachments/assets/26ce4f6f-80f5-47f7-bcf2-35cf058d406f)
 
-**5.** get back to the interactive computing platform to excuate your code for the files
+**5. get back to the interactive computing platform to excuate your code for the files**
+
+
 
   **you could just download my code to modify**
 
-
-
+```
+https://github.com/pupupeter/GRAPHRAGwithHistory/blob/main/%E6%9C%89%E6%88%90%E5%8A%9Fneo4j%E7%9A%84%E6%9D%B1%E8%A5%BF.py
+```
 
 
 
