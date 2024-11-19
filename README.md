@@ -95,7 +95,7 @@ I had already put the theories on github, you could try choose our theories or j
 
 
 ![image](https://github.com/user-attachments/assets/26ce4f6f-80f5-47f7-bcf2-35cf058d406f)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/5f114e7b-fc13-43da-8dc3-2e9f9e28e723)
 
 **5. get back to the interactive computing platform to excuate your code for the files**
 
