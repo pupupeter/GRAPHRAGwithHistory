@@ -17,9 +17,9 @@ GraphRagwith history/
 │
 ├── templates/
 │   ├── network.html       # person nodes
-│   ├── f.html        # file nodes
-│   ├── e.html       # person relate event nodes
-│   └── g.html        # jiangchong  nodes
+│   ├── f.html        #  chunk nodes
+│   ├── e.html       # who、what、when、where、what  nodes
+│   └── g.html        # who、what、when、where、what  nodes- 劉據
 ├── neo4jwithhistory(1).py               # neo4j code
 │
 └── README.md            # Project description file
