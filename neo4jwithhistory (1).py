@@ -15,8 +15,8 @@ import pyvis
 from neo4j import GraphDatabase
 
 # URI examples: "neo4j://localhost", "neo4j+s://xxx.databases.neo4j.io"
-URI = "neo4j+s://b2c24363.databases.neo4j.io"
-AUTH = ("neo4j", "ukuaehk7O3U0zIyIP-0pg_va0JHjwUfI5ONlvGo-p0U")
+URI = "your neo4j uri"
+AUTH = ("neo4j", "your password ")
 
 with GraphDatabase.driver(URI, auth=AUTH) as driver:
     driver.verify_connectivity()
