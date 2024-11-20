@@ -16,11 +16,11 @@ GraphRagwith history/
 │
 │
 ├── templates/
-│   ├── person.html       # person nodes
-│   ├── file.html        # file nodes
-│   ├── personandevent.html       # person relate event nodes
-│   └── personaboutjiangchong.html        # jiangchong  nodes
-├── neo4j-for-nodes.py               # neo4j code
+│   ├── network.html       # person nodes
+│   ├── f.html        # file nodes
+│   ├── e.html       # person relate event nodes
+│   └── g.html        # jiangchong  nodes
+├── neo4jwithhistory(1).py               # neo4j code
 │
 └── README.md            # Project description file
 ```
